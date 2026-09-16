@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "coreprivacysettingsstore.dll",
+  "latest": "3058442318-0F633F5854BC35CF7C6A52B770350077-1",
+  "builds": [
+    {
+      "key": "3058442318-0F633F5854BC35CF7C6A52B770350077-1",
+      "timestamp": "3058442318",
+      "pdb_guid": "0F633F5854BC35CF7C6A52B770350077",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3058442318-0F633F5854BC35CF7C6A52B770350077-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}

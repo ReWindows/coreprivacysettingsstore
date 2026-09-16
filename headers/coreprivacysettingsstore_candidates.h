@@ -1,0 +1,27 @@
+// Windissect exhaustive candidate class surface for coreprivacysettingsstore.dll.
+// Experimental: declarations may contain unresolved PDB language ambiguities.
+#pragma once
+
+#include "windissect_abi.h"
+#include "windissect_forwards.h"
+#include "windissect_vcalls.h"
+#include "windissect_calls.h"
+#include "utilities/Private.h"
+#include "utilities/ModuleBase.h"
+#include "utilities/InternalCPSSKey.h"
+#include "utilities/CPSSPolicyBase.h"
+#include "values/CPSSPolicy_DefaultValue.h"
+#include "utilities/CPSSPolicy_InheritsFromDevice.h"
+#include "utilities/CPSSPolicy_LegacyKeyName.h"
+#include "utilities/CPSSPolicy_LegacyKeyType.h"
+#include "utilities/CPSSPolicy_LegacyProjection.h"
+#include "utilities/CPSSPolicy_ManageLegacyKeySecurity.h"
+#include "utilities/CPSSPolicy_StaticMigrationPath.h"
+#include "utilities/CPSSPolicy_StaticMigrationPathSS.h"
+#include "utilities/CorePrivacySettingsStoreTelemetry.h"
+#include "utilities/Common.h"
+#include "utilities/StaticMigrationPathWrapper.h"
+#include "utilities/BasicCPSSKeyWrapper.h"
+#include "utilities/Details.h"
+#include "utilities/CPSSKeyStringGroup.h"
+#include "utilities/CPSSPolicyWrapper.h"
